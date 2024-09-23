@@ -455,15 +455,15 @@ const openNewtab = () => {
 };
 
 let splashtext = [
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
-  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
+  "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
   "fun fact, the bottomless pit is shaped in an infinity",
   "he is circle",
 ]
