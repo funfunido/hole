@@ -455,17 +455,17 @@ const openNewtab = () => {
 };
 
 let splashtext = [
-  "check out discord.gg/goabyss",
-  "made by paxton warin",
-  "want your own link? check out discord.gg/goabyss",
-  "thanks for using the site!",
-  "check out the settings page",
-  "check out the games page",
-  "check out the settings to hide from your teacher",
-  "need ChatGPT? search for it on the games page!",
-  "shoutout owen, ramsey, and levi",
-  "co owned by wyatt batdorf",
-  "enzo is interesting...",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "In this land of ours, there are many great pits. But none more bottomless than the bottomless pit. Which, as you can see here, is bottomless.",
+  "fun fact, the bottomless pit is shaped in an infinity",
+  "he is circle",
 ]
 
 const runService = async (url, override, overrideadrbar) => {
