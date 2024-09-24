@@ -466,6 +466,8 @@ let splashtext = [
   "nothing more bottomless than the bottomless pit, which you can see here is bottomless",
   "fun fact, the bottomless pit is shaped in an infinity",
   "he is circle",
+  "Welcome to the diddy party, vro~ ;3c",
+  "Ram Ranch",
 ]
 
 const runService = async (url, override, overrideadrbar) => {
