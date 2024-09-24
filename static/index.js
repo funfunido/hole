@@ -315,7 +315,7 @@ const recordKeys = (elem, timeLimit) => {
 
 const cloakTitle = (title) => {
   if (title.trim() == "") {
-    title = "Abyss";
+    title = "hole";
   }
   document.title = title;
   localStorage.setItem("title", title);
